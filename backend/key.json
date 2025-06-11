@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "psichology-app",
+  "private_key_id": "8f5cbe81c44ac36d595200e6c637f0844d6c8ca2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCakRYiZVsUpCu+\noqmmSRiaNumWxF+URyRx18j8Y5uRbfkZPm8TOW6cgt+S78PMPRvWLBlRnUpfT9yY\nkD2LCSzTOrRfPykuMcNd/y4VheTHKuswUW3TnJAx44UFHJFSt+vJiIZqoE7jK81u\n2vCx8RDsEU7fJj8elDfOPjlH94okM5ldivHxp/W8sqvO71oDGYSoFacNlcWeawPQ\nE0rz3IlrtrIbYGyltbcIxqmBVpjBJIawjWeDPAHnpdqVq2QwpBjjReKhx6tn1rRg\nBLHKu5iiDGELECOB3qHDV/EE5Eq0Zbzm+H2xeGatjTlHbygmflJBCoMsS7Dg2dko\nGuER50vJAgMBAAECggEAKvcgsX/+MP8vv8bEpNoV0ixog0XkEboy6chjcLEZmfP5\ndehyhOQGmNASaOxoP3pPJhpNEXBJL7Rp7CjQSrlKsg7T+9P5VQN1PMhF3arB/REz\nnlNMVbHkLVIC9HhL9zP0AaoHP1V/iEtxSBrpJHWP0CdBhutBSXVHC/glARnQ1x3n\n3W6A1YOKNkWfptu5Dt7emqNO9dd9hBXPOh0N6frI6n9zAlmi2nPL8lvfindohXJo\naRKbtK0MDvgiIGScJX6JyK4vQmz/7GJgqKtNY1YxeHOv3heyg1FiKHKSbI2QU4W8\ncSqqlYSVoPF2A8ROnca/DNeFVzZTgsWdgWeQ3hqsZwKBgQDW1MzAiovDoHHlRd97\n1LN+nI9dWtYLcgcV9SgtCKKsbN5D17YVrT4udETo9Ef3mlLSgxyFM4sUJmQt/Zm9\n8b1aO/Uu5IuAmKpoK+mZsshJzKJiBxbo2JRirlJRF7UBU3ojzkRRowIsex/TGgth\nWP3R8Tf60FZY64/IQx68ZH83AwKBgQC4L9P92B1NfoC6qxsRoDeWdi8FXcDo3lh8\nbp6WRTU6OOl0g3C1OAuFX7xJ9wGPmF0c5Xw6Oe1qAZX5LB1q8Wnn+L4Q4InAtUUr\ne1ha1zIamUgRsbzkwjTYTE0MRqSBsUVr7vIMZM/EbiYcnd/3bEZyMeWSNOlPw6Pt\nZdShjUSiQwKBgQDV2QxcWU2ZFVxq4qv9IxTt4sCfKC3LRN2i0OAGPANaaiCyHccG\nOuab7WcvEQOWiIsLPDImsdEu5KxyT3A78KgRa3+8BwqKnu16NsQZGCthsw6tT+tR\nK05CEM6mJFgsksERZWECdqZSStm6FMHhTGmVE24rADoD17DPo2i0FcHAqwKBgA38\nE6yCbDcmE8AYncWI1K+n6YoOxEbqGu3XuFLQjmoNSCyAjl40EyvdSP6Uspmkh+1Z\nv0TsgQo7dJemsdUc312tlUDSy6LGIKpcgyjijftXCBHP3PfBhyGlKXR1KKhwPUUk\nr1whi2TuuBYUJp0yq2agQz4GpnBX+mpcAPkDMOLhAoGAYzOHVlZKtfCdN1zYL2gR\nqEzULUyYItdNf+PQk8zDSHn2bIFHFrAmc0i+V8vhO667qj2RUPgmwCVp7ZbGyNTY\ndsnTnEcsGPIKhTJUcYJjhrrYOo1EXi2Av7Zhk9np5/gyYCi6/TC8vZu6+2zd27xb\nkIhkIPswSNxPOfy09Q8LRGM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "psichology-app@psichology-app.iam.gserviceaccount.com",
+  "client_id": "107316407877714520111",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/psichology-app%40psichology-app.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
