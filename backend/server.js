@@ -10,7 +10,7 @@ const port = process.env.PORT || 3005;
 // --- CARREGAMENTO EXPLÍCITO DA CHAVE JSON ---
 let credentials;
 let projectId;
-const keyFilePath = path.join(__dirname, 'key.json'); // Ajuste 'minha-chave.json' para o nome exato do seu arquivo
+// const keyFilePath = path.join(__dirname, 'key.json'); // Ajuste 'minha-chave.json' para o nome exato do seu arquivo
 
 try {
     const keyFileContent = fs.readFileSync(keyFilePath, 'utf8');
